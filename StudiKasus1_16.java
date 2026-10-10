@@ -7,7 +7,7 @@ public class StudiKasus1_16 {
         int jumlahCup,uangBayar,totalHarga,diskon;
         int totalBayar,kembalian,kurang;
         
-              System.out.print("Masukkan jumlah cup yang dibeli: ");
+        System.out.print("Masukkan jumlah cup yang dibeli: ");
         jumlahCup = sc.nextInt();
 
         System.out.print("Masukkan jumlah uang yang dibayarkan: ");
